@@ -1,5 +1,4 @@
 # simple-web
-
 Simple website
 
 link to site: https://foresterhema311.github.io/simple-web/
